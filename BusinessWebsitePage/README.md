@@ -1,10 +1,6 @@
-```markdown
 # 🏢 Multi-Page Business Landing Site
 
 This project consists of two distinct business landing pages built with a shared CSS architecture to maintain consistent branding, typography, and responsive behavior across the entire site.
-
-## 🚀 Live Demo
-*(Insert your GitHub Pages link here)*
 
 ## 🛠️ Tech Stack
 * **HTML5:** Semantic structure for multi-page navigation.
@@ -27,12 +23,12 @@ This project consists of two distinct business landing pages built with a shared
 ## 📁 Project Structure
 ```text
 ├── css/
-│   └── style.css      # Consolidated responsive stylesheet
+│   └── style.css 
 ├── image/
 │   └── (Icons/Assets)
-├── index.html         # Hero-focused Landing Page
-├── page2.html         # Services/Business Detail Page
-└── README.md          # Project documentation
+├── index.html         
+├── page2.html         
+└── README.md          
 
 ```
 
@@ -41,7 +37,3 @@ This project consists of two distinct business landing pages built with a shared
 ## The focus of this project was mastering **Responsive Web Design**. By implementing media queries, I was able to optimize the user experience for various viewports without sacrificing the site's professional design.
 
 *Made with 💛 by Ruqia | 2026*
-
-```
-
-```
